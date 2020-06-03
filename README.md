@@ -1,4 +1,5 @@
-<!-- 
+<details>
+<summary>🐖</summary>
 
 Pastrami strip steak spare ribs ham hock hamburger swine beef. Andouille meatloaf ham hock, ribeye boudin flank salami ground round. Shoulder andouille sirloin, jowl short ribs pancetta pig ribeye. Shankle chicken ribeye tongue pastrami drumstick, pig salami brisket meatloaf kielbasa shank pork. Ham jowl filet mignon meatloaf boudin.
 
@@ -40,4 +41,4 @@ Salami frankfurter tenderloin corned beef. Flank pork chop hamburger fatback ven
 
 Spare ribs turkey frankfurter bacon ham ribeye venison brisket pancetta fatback drumstick tongue beef ribs. Pork belly bresaola drumstick boudin shoulder salami, prosciutto tail chicken biltong. Salami drumstick frankfurter short ribs bresaola strip steak kielbasa cow beef ribs. Meatball short loin beef ribs pig ribeye.
 
--->
+</details>
