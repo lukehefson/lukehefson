@@ -1,11 +1,8 @@
 <details>
 <summary>▲ ◀︎ ▼ ‣ ‣ ‣</summary>
 
-Typo:
-
 ```diff
 - Sarcastic comment
-+ Interesting content
++ Attempt to be witty with markdown
 ```
-
 </details>
