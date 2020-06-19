@@ -1,6 +1,11 @@
-<div align="center">
-<h3><samp>L U K E &nbsp; H E F S O N</samp></h3>
-
+<table>
+    <tr align="center">
+      <td>
+<h3><samp>&nbsp;&nbsp;L U K E &nbsp; H E F S O N&nbsp;&nbsp;</samp></h3>
 <sub><samp>product at github</samp></sub><br>
-<sub><samp>find me on <a href="https://twitter.com/lukehefson/">twitter</a> & <a href="https://uk.linkedin.com/in/lukehefson">linkedin</a></samp></sub>
-</div>
+<sub><samp>find me on <a href="https://twitter.com/lukehefson/">twitter</a> & <a href="https://uk.linkedin.com/in/lukehefson">linkedin</a></br></br></samp></sub>
+</td>
+    </tr>
+</table>
+
+<sub>Please enjoy this hyper text markup langauge business card on me. <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">View source</a>.</sub>
