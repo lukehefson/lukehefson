@@ -8,4 +8,4 @@
     </tr>
 </table>
 
-<sub>Please enjoy this hyper text markup langauge business card. <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md"></sub>
+<sub>Please enjoy this hyper text markup language business card. <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md"></sub>
