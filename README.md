@@ -26,4 +26,4 @@
 </h5> 
 
 </br>
-<div align="center"><sup>Note: No images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></sup></div>
+<div align="right"><sup>Note: No images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></sup></div>
