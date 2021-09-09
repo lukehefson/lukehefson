@@ -18,8 +18,8 @@
 ```diff
 @@ Real life: I 💜 surfing, music, and chilling with my lil’ family @@
 ```
-<h3>
+<h5>
 
 ```diff
-- Not so keen on: Binary thinking, small world-views & apathy to climate change -
+- Not so keen on: Binary thinking, small world-views & apathy to climate change 🚨 -
 ```
