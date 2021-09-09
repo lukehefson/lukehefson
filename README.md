@@ -1,11 +1,25 @@
-<table>
-    <tr align="center">
-      <td>
-<h3><samp>&nbsp;&nbsp;L U K E &nbsp; H E F S O N&nbsp;&nbsp;</samp></h3>
-<sub><samp>product at github</samp></sub><br>
-<sub><samp>find me on <a href="https://twitter.com/lukehefson/">twitter</a> & <a href="https://uk.linkedin.com/in/lukehefson">linkedin</a></br></br></samp></sub>
-</td>
-    </tr>
-</table>
+<h1>
 
-<sub>Please enjoy this <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">hyper text markup language</a> business card.</sub>
+```diff
+# Hello World #
+```
+<h2>
+
+```diff
+! I’m a product manager at GitHub 🐙🐈 !
+```
+<h3>
+
+```diff
++ Work life: I 💚 data products, building communities and supporting open source +
+```
+<h3>
+
+```diff
+@@ Real life: I 💜 surfing, music, and chilling with my lil’ family @@
+```
+<h3>
+
+```diff
+- Not so keen on: Binary thinking, small world-views & apathy to climate change -
+```
