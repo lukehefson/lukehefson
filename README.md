@@ -23,3 +23,7 @@
 ```diff
 - Not so keen on: Binary thinking, small world-views & apathy to climate change 🚨 -
 ```
+</h5> 
+
+</br>
+<div align="center"><sup>Note: No images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></sup></div>
