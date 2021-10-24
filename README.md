@@ -21,7 +21,7 @@
 <h5>
 
 ```diff
-- Not so keen on: Binary thinking, small world-views & apathy to climate change 🚨 -
+- Not so keen on: Binary thinking, small world-views & apathy towards the climate crisis 🐻‍❄️🚨 -
 ```
 </h5> 
 
