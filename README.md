@@ -11,12 +11,12 @@
 <h3>
 
 ```diff
-+ Work life: I 💚 data products, building communities and supporting open source 🌱 +
++ Work life: I 💚 data products & helping global open source communities 🌍🌱 +
 ```
 <h3>
 
 ```diff
-@@ Real life: I 💜 surfing, music, and chilling with my lil’ family 👨‍👩‍👧‍👧 @@
+@@ Real life: I 💜 surfing, music, & chilling with my lil’ family 👨‍👩‍👧‍👧 @@
 ```
 <h5>
 
