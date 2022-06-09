@@ -3,15 +3,19 @@
 ```diff
 # Hello World #
 ```
+
+<!--   
 <h2>
 
 ```diff
 ! I’m a product manager at GitHub 🐙🐈 !
 ```
+-->
+
 <h3>
 
 ```diff
-+ Work life: I 💚 data products & helping global open source communities 🌍🌱 +
++ Work life: I'm a PM who 💚 data products & helping global OSS communities 🌍🌱 +
 ```
 <h3>
 
