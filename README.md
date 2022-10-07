@@ -15,7 +15,7 @@
 <h3>
 
 ```diff
-+ Work life: I'm a PM who 💚 data products & helping global OSS communities 🌍🌱 +
++ Work life: I'm a PM who 💚 data products, global communities & open source 🌍🌱 +
 ```
 <h3>
 
