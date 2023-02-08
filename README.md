@@ -1,33 +1,33 @@
-<h1>
-
 ```diff
-# Hello World #
+! Hello World !
 ```
-
-<!--   
-<h2>
-
-```diff
-! I’m a product manager at GitHub 🐙🐈 !
-```
--->
-
-<h3>
 
 ```diff
 + Work life: I'm a PM who 💚 data products, global communities & open source 🌍🌱 +
 ```
-<h3>
 
 ```diff
 @@ Real life: I 💜 surfing, music, & chilling with my lil’ family 👨‍👩‍👧‍👧 @@
 ```
-<h5>
+
+<sub>
 
 ```diff
 - Not so keen on: Binary thinking, small world-views & apathy towards the climate crisis 🐻‍❄️🚨 -
 ```
-</h5> 
+</sub>
 
 </br>
-<div align="right"><sup>Note: No images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></sup></div>
+<div align="right"><sub>Note: No images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></su></div>
+
+<!--
+If you're interested:
+
+```diff
+- red
++ green
+! orange
+@@ purple @@
+# gray
+```
+-->
