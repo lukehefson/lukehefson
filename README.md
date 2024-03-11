@@ -3,11 +3,11 @@
 ```
 
 ```diff
-+ Work life: I'm a PM who 💚 data products, global communities & open source 🌍🌱 +
++ Work life: I'm a product leader who 💚 data/AI/ML products, open source & global communities 🌍🌱 +
 ```
 
 ```diff
-@@ Real life: I 💜 surfing, music, & chilling with my lil’ family 👨‍👩‍👧‍👧 @@
+@@ Real life: I 💜 surfing, music, & chilling with my lil’ family 👣 @@
 ```
 
 <sub>
