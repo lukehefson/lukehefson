@@ -18,7 +18,7 @@
 </sub>
 
 </br>
-<div align="right"><sub>Note: No JS or images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></su></div>
+<div align="right"><sub>Note: No JS or images were harmed in the making of <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">this README</a></sub></div>
 
 <!--
 If you're interested:
