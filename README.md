@@ -3,7 +3,7 @@
 ```
 
 ```diff
-+ Work life: I'm a product leader who 💚 devtools, AI, open source & global communities 🌍🌱 +
++ Work life: I'm a product leader who 💚 devtools, open source, data products & global communities 🌍🌱 +
 ```
 
 ```diff
